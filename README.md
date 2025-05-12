@@ -1,4 +1,4 @@
-                                                                                            🧠 UI/UX Design Planning
+                                                                                 UI/UX Design Planning
                                                                                             
 🎯 Design Goals
 Create an intuitive and clean interface for all users.
@@ -77,7 +77,7 @@ Note: These values are examples. Replace them with exact values from your Figma 
 Understanding and documenting design properties like colors, fonts, and sizes ensures consistency across your application. It helps developers implement the UI accurately, speeds up collaboration between designers and developers, and ensures a polished and professional user experience. It also allows future changes to be made quickly and uniformly across the app.
 
 
-                                                                              👥 Project Roles and Responsibilities
+                                                                            Project Roles and Responsibilities
                                                                               
 Clear role definition ensures smooth collaboration, accountability, and successful delivery of the project. Below are the key roles involved in this project and their responsibilities:
 
@@ -93,7 +93,7 @@ Clear role definition ensures smooth collaboration, accountability, and successf
 | **DevOps Engineers**    | - Set up CI/CD pipelines<br>- Manage cloud infrastructure and deployments<br>- Monitor system performance and uptime                                                                          |
 
                                                                                    
-                                                                                    🧩 UI Component Patterns
+                                                                                  UI Component Patterns
                                                                                     
 To maintain a modular and reusable frontend codebase, we plan to implement the following UI components. These components will follow consistent design and layout standards for a seamless user experience across the application.
 
