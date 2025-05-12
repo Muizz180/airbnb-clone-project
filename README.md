@@ -31,7 +31,7 @@ Simple Checkout View	Final step for booking. Displays a summary of the selected 
 👥 Importance of a User-Friendly Design
 A user-friendly design ensures that users can navigate the booking system efficiently without confusion or frustration. It builds trust, reduces drop-offs during checkout, and improves overall satisfaction. In a competitive space like property bookings, great UX directly impacts conversions and customer loyalty.
 
-🎨 Color Styles (from Figma)
+Color Styles (from Figma)
 Primary: #3A86FF
 
 Secondary: #8338EC
